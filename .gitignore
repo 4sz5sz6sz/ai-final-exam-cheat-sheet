@@ -1,0 +1,18 @@
+# LaTeX 임시 파일들
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+*.toc
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*~
+*.tmp
